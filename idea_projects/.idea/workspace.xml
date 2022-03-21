@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="825cb4bc-3970-4f4b-85fa-84a690c949f1" name="Changes" comment="" />
+    <list default="true" id="0a9b616c-09ef-4651-bfc1-85d151c8c7cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms_4th_edition/Algorithms_4th_edition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms_4th_edition/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms_4th_edition/src/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms_4th_edition/src/RandomSeq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idea_projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/exercise.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/out/production/exercise/exercise1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/src/exercise1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/src/exercise1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/javacode/exercise1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vscode_jsp/demo/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../vscode_jsp/demo/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vscode_jsp/demo/target/demo/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../vscode_jsp/demo/target/demo/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vscode_projects/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vscode_projects/src/App.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,182 +46,157 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1zWMQ2JQXaCOJeIqV3ww1X6AORd" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="25pdzCiOivcZoxKNShDDwyHzjct" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="advanced.settings" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="PLAIN_TEXT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../java/plugin/TranslationPlugin-3.1.1-201.zip" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.hellomakabaka">
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test1" />
-      <module name="idea_projects" />
+  <component name="RunManager" selected="Application.Date">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+      <module name="Algorithms_4th_edition" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hellomakabaka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hellomakabaka" />
-      <module name="idea_projects" />
+    <configuration name="Date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date" />
+      <module name="Algorithms_4th_edition" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="idea_projects" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomSeq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomSeq" />
+      <module name="Algorithms_4th_edition" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.BinarySearch" />
+      <item itemvalue="Application.RandomSeq" />
+      <item itemvalue="Application.Date" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.hellomakabaka" />
-        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Date" />
+        <item itemvalue="Application.RandomSeq" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="825cb4bc-3970-4f4b-85fa-84a690c949f1" name="Changes" comment="" />
-      <created>1634259370300</created>
+      <changelist id="0a9b616c-09ef-4651-bfc1-85d151c8c7cc" name="Changes" comment="" />
+      <created>1646228225812</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1634259370300</updated>
-      <workItem from="1634259371509" duration="1417000" />
-      <workItem from="1634262703884" duration="1364000" />
-      <workItem from="1634289978121" duration="764000" />
-      <workItem from="1634299091543" duration="1540000" />
-      <workItem from="1634349940395" duration="272000" />
-      <workItem from="1634350230340" duration="3426000" />
-      <workItem from="1634360444210" duration="3172000" />
-      <workItem from="1634372617407" duration="1037000" />
-      <workItem from="1634385415221" duration="1944000" />
-      <workItem from="1634435175676" duration="1386000" />
-      <workItem from="1634452001773" duration="13000" />
-      <workItem from="1634516474814" duration="621000" />
-      <workItem from="1634541244358" duration="923000" />
-      <workItem from="1634618546588" duration="929000" />
-      <workItem from="1634639385597" duration="2244000" />
-      <workItem from="1634716200058" duration="1660000" />
-      <workItem from="1634719743255" duration="1704000" />
-      <workItem from="1634723069470" duration="594000" />
-      <workItem from="1634777181760" duration="778000" />
-      <workItem from="1634865052125" duration="822000" />
-      <workItem from="1634869189259" duration="597000" />
-      <workItem from="1634968524101" duration="136000" />
-      <workItem from="1634968674104" duration="6000" />
-      <workItem from="1634968732030" duration="771000" />
-      <workItem from="1635040357467" duration="1191000" />
-      <workItem from="1635083470809" duration="9000" />
-      <workItem from="1635083490415" duration="6000" />
-      <workItem from="1635233673219" duration="2000" />
-      <workItem from="1635233695496" duration="27000" />
-      <workItem from="1635417663343" duration="14000" />
-      <workItem from="1635417738902" duration="20000" />
-      <workItem from="1635417793424" duration="1532000" />
-      <workItem from="1635503405634" duration="20000" />
-      <workItem from="1635504517250" duration="1239000" />
-      <workItem from="1635507732003" duration="416000" />
-      <workItem from="1635751193061" duration="269000" />
-      <workItem from="1635752029388" duration="594000" />
-      <workItem from="1635916794467" duration="6000" />
-      <workItem from="1635924971015" duration="974000" />
-      <workItem from="1635941917831" duration="13000" />
-      <workItem from="1635941950335" duration="6000" />
-      <workItem from="1636072411999" duration="828000" />
-      <workItem from="1636073468363" duration="94000" />
-      <workItem from="1636289778401" duration="1175000" />
-      <workItem from="1636535605690" duration="23000" />
-      <workItem from="1636535650696" duration="5000" />
-      <workItem from="1636639882753" duration="12000" />
-      <workItem from="1636639913451" duration="8000" />
-      <workItem from="1636722162274" duration="593000" />
-      <workItem from="1636876000859" duration="4000" />
-      <workItem from="1636982211304" duration="15000" />
-      <workItem from="1636982693910" duration="209000" />
-      <workItem from="1637062390753" duration="7000" />
-      <workItem from="1637062411915" duration="19000" />
-      <workItem from="1637372588728" duration="14000" />
-      <workItem from="1637372614619" duration="600000" />
-      <workItem from="1637375953104" duration="5000" />
-      <workItem from="1637557716657" duration="593000" />
-      <workItem from="1637744238500" duration="19000" />
-      <workItem from="1637744273180" duration="18000" />
-      <workItem from="1637763170584" duration="82000" />
-      <workItem from="1637987154585" duration="13000" />
-      <workItem from="1637987181361" duration="91000" />
-      <workItem from="1638178419170" duration="18000" />
-      <workItem from="1638178449844" duration="3000" />
-      <workItem from="1638194846316" duration="8000" />
-      <workItem from="1638359485675" duration="4000" />
-      <workItem from="1638421314331" duration="6000" />
-      <workItem from="1638421333573" duration="25000" />
-      <workItem from="1638765981016" duration="8000" />
-      <workItem from="1638766005713" duration="6000" />
-      <workItem from="1638889155465" duration="276000" />
-      <workItem from="1638889449982" duration="153000" />
-      <workItem from="1638963695446" duration="273000" />
-      <workItem from="1638963993292" duration="4000" />
-      <workItem from="1639140624392" duration="21000" />
-      <workItem from="1639140660879" duration="3000" />
-      <workItem from="1639280205437" duration="16000" />
-      <workItem from="1639280235988" duration="126000" />
-      <workItem from="1639576296538" duration="191000" />
-      <workItem from="1639576503400" duration="53000" />
-      <workItem from="1639648833100" duration="5000" />
-      <workItem from="1639648850141" duration="601000" />
-      <workItem from="1639737349483" duration="12000" />
-      <workItem from="1639737384055" duration="4000" />
-      <workItem from="1640257313887" duration="9000" />
-      <workItem from="1640257339670" duration="14000" />
-      <workItem from="1640330920564" duration="5000" />
-      <workItem from="1640330938084" duration="6000" />
-      <workItem from="1640519020182" duration="19000" />
-      <workItem from="1640519065632" duration="43000" />
-      <workItem from="1640600593255" duration="11000" />
-      <workItem from="1640600622397" duration="13000" />
-      <workItem from="1640659827812" duration="1000" />
-      <workItem from="1640945112876" duration="19000" />
-      <workItem from="1640945143407" duration="5000" />
-      <workItem from="1641099062226" duration="14000" />
-      <workItem from="1641099088074" duration="6000" />
-      <workItem from="1641258025534" duration="15000" />
-      <workItem from="1641258066367" duration="16000" />
-      <workItem from="1641378876605" duration="598000" />
-      <workItem from="1641379529031" duration="221000" />
-      <workItem from="1641474681856" duration="74000" />
-      <workItem from="1641474771158" duration="4000" />
-      <workItem from="1641913443059" duration="12000" />
-      <workItem from="1641913471225" duration="2000" />
-      <workItem from="1642052926705" duration="28000" />
-      <workItem from="1642052969342" duration="453000" />
-      <workItem from="1642119159497" duration="84000" />
-      <workItem from="1642119253391" duration="597000" />
-      <workItem from="1642228863613" duration="7000" />
-      <workItem from="1642228886511" duration="601000" />
-      <workItem from="1642330570313" duration="13000" />
-      <workItem from="1642330595178" duration="7000" />
-      <workItem from="1642330614419" duration="59000" />
-      <workItem from="1642592262870" duration="88000" />
-      <workItem from="1642900391618" duration="10000" />
-      <workItem from="1642900412066" duration="116000" />
-      <workItem from="1643084774830" duration="16000" />
-      <workItem from="1643084801810" duration="25000" />
-      <workItem from="1643416585443" duration="32000" />
-      <workItem from="1643416629220" duration="19000" />
-      <workItem from="1643417147742" duration="309000" />
-      <workItem from="1643417469547" duration="287000" />
-      <workItem from="1643417784041" duration="119000" />
+      <updated>1646228225812</updated>
     </task>
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

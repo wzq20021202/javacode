@@ -10,7 +10,7 @@
 
     <body>
         <%
-    out.println("  jude,say:Hello World!   ");
+    out.println("Hello World!");
 %>
     </body>
 
